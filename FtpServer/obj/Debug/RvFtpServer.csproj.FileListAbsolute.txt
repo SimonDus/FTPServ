@@ -1,0 +1,7 @@
+E:\C#\RVSound\FTP\FTP SERVER\FtpServer\bin\Debug\FtpServer.exe.config
+E:\C#\RVSound\FTP\FTP SERVER\FtpServer\bin\Debug\FtpServer.exe
+E:\C#\RVSound\FTP\FTP SERVER\FtpServer\bin\Debug\FtpServer.pdb
+E:\C#\RVSound\FTP\FTP SERVER\FtpServer\obj\Debug\RvFtpServer.csprojAssemblyReference.cache
+E:\C#\RVSound\FTP\FTP SERVER\FtpServer\obj\Debug\RvFtpServer.csproj.CoreCompileInputs.cache
+E:\C#\RVSound\FTP\FTP SERVER\FtpServer\obj\Debug\FtpServer.exe
+E:\C#\RVSound\FTP\FTP SERVER\FtpServer\obj\Debug\FtpServer.pdb
